@@ -1,0 +1,9 @@
+4609
+find 600093 in 31/03/2018 12:00:00 AMprice up
+find 888880 in 31/03/2018 12:00:00 AMprice down
+find 000540 in 31/07/2017 12:00:00 AMprice up
+find 000876 in 28/02/2018 12:00:00 AMprice down
+find 000930 in 31/10/2017 12:00:00 AMprice up
+find 002376 in 31/03/2018 12:00:00 AMprice up
+find 300086 in 30/11/2017 12:00:00 AMprice down
+find 300107 in 31/03/2018 12:00:00 AMprice up
